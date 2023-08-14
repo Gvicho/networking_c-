@@ -1,4 +1,4 @@
-# networking_c-
+# networking_c++
 This is my first interaction with networking sockets with cpp, I have created and tested server and client side in c++ in the same pc.
 
 I had a two diffeante visual studio projects open, you can see the photo of the end resoult of running both at the same time in the repository.
